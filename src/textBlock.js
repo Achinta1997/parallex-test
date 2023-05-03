@@ -17,12 +17,3 @@ function TextBlock(){
 
 export default TextBlock;
 
-
-
-{/* <div id="textblock">
-<div id="textblock-container">
-    <h1 id="textblock-title">Parallax</h1>
-    <p id="textblock-content">
-    parallax, in astronomy, the difference in direction of a celestial object as seen by an observer from two widely separated points.</p>
-</div>
-</div> */}
